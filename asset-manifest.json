@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/manggoGrants/static/css/main.ef5fe8f8.css",
-    "main.js": "/manggoGrants/static/js/main.abff1fc9.js",
+    "main.js": "/manggoGrants/static/js/main.74cf4040.js",
     "static/js/787.f47f9314.chunk.js": "/manggoGrants/static/js/787.f47f9314.chunk.js",
     "index.html": "/manggoGrants/index.html",
     "main.ef5fe8f8.css.map": "/manggoGrants/static/css/main.ef5fe8f8.css.map",
-    "main.abff1fc9.js.map": "/manggoGrants/static/js/main.abff1fc9.js.map",
+    "main.74cf4040.js.map": "/manggoGrants/static/js/main.74cf4040.js.map",
     "787.f47f9314.chunk.js.map": "/manggoGrants/static/js/787.f47f9314.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef5fe8f8.css",
-    "static/js/main.abff1fc9.js"
+    "static/js/main.74cf4040.js"
   ]
 }
